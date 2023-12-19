@@ -20,3 +20,4 @@ Configurando o Phishing no Kali Linux
 
 Resutados
 
+![senha](https://github.com/emoreirasj/Cibersecurity/assets/113939678/b40cd0ce-f504-4252-9f4f-0509c0a9d75d)
